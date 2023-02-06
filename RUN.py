@@ -16,7 +16,7 @@ def Run():
             xoss('\x1b[1;94m[●] Follow My Facebook First \033[1;97m🎈')
             os.system('xdg-open https://www.facebook.com/EKINGCMD')
             print(50*"-")
-            from BKT import refat
+            from FREE import refat
             refat()
         elif bit == '32bit':
             xoss("\n\x1b[1;92m[●] Sorry ! Your Device Not Support this Tools 🙂");time.sleep(1)
@@ -24,7 +24,7 @@ def Run():
             xoss('\x1b[1;94m[●] Follow My Github First \033[1;97m🎈')
             os.system('xdg-open https://github.com/MR-ELYAS')
             print(50*"-")
-            import BKT
+            import FREE
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 Run()
